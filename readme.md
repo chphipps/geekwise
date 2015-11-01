@@ -1,5 +1,5 @@
 # Geekwise Academy BC1 Course Curriculum
-### Geekwise Academy Bootcamp 1 Course Curriculum
+### November 2015 - Bootcamp 1 Course Curriculum
 
 ![alt text](https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xpa1/v/t1.0-9/12122746_10206738636517413_4155224022929602885_n.jpg?oh=e563334d423a623cde4e7c6d7ce509fe&oe=56D007CB "Geekwise Academy Bootcamp 1 Class")
 
@@ -58,6 +58,14 @@ p {
 
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.geekwiseacademy.com or <http://www.geekwiseacademy.com>.
+
+
+### Cool Video 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HIUNIIpqdwI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HIUNIIpqdwI
+" target="_blank"><img src="http://img.youtube.com/vi/HIUNIIpqdwI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="" height="" border="10" /></a>
 
 > Blockquotes.
 > This line is part of the same quote.
