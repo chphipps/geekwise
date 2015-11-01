@@ -35,6 +35,7 @@ This is a basic example of the code students will learn to write.
         </section>
     </body>
 </html> 
+<!-- How the text is indented in HTML is important. -->
 ```
 
 #### Example of CSS 3 Code
@@ -43,7 +44,7 @@ This is an example of the type of styles students will learn how to write.
 p {padding:10px; margin:10px;}
 .blackText {color:#000000; font-size:18px; font-weight:700;}
 
-<!-- CSS can be written in the above sytnax or the syntax below. -->
+/* CSS can be written in the above sytnax or the syntax below. */
 
 p {
     padding:10px;
