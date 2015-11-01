@@ -2,7 +2,7 @@
 ### Geekwise Academy Bootcamp 1 Course Curriculum
 
 | WEEK        | MONDAY & TUESDAY        | WEDNESDAY & THURSDAY    |
-| ---- |----| ----|
+| :----: |----| ----|
 | **1**    | **9/14 & 9/15**    | **9/14 & 9/15**    |
 |      | Introductions What is the Internet/the cloud? What is HTML & CSS how they work together What is a browser vs. search engine Open & Closed Caret and Tags < > < /> Codepen.io CODE PEN CODING      |    CODE PEN CODING Clean coding Nesting HTML & CSS syntax  build a micro page, blog style pixels as a unit of measurement &copy; and other HTML entities Why .io? input / output Resources like w3schools.org |
 | **2**    | **9/14 & 9/15**    | **9/14 & 9/15**    |
