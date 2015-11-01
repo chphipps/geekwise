@@ -59,6 +59,7 @@ p {
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.geekwiseacademy.com or <http://www.geekwiseacademy.com>.
 
+---
 
 ### Geekwise Acacemy Cool Video 
 Click the video below to watch on YouTube.
