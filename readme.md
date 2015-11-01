@@ -61,11 +61,11 @@ http://www.geekwiseacademy.com or <http://www.geekwiseacademy.com>.
 
 
 ### Cool Video 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HIUNIIpqdwI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+Click the video below to watch on YouTube.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HIUNIIpqdwI
 " target="_blank"><img src="http://img.youtube.com/vi/HIUNIIpqdwI/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="" height="" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="100%" height="" border="10" /></a>
 
 > Blockquotes.
 > This line is part of the same quote.
