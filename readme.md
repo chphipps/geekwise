@@ -1,6 +1,10 @@
 # Geekwise Academy BC1 Course Curriculum
 ### Geekwise Academy Bootcamp 1 Course Curriculum
 
+(https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/12093299_1512972302354131_742382834_n.jpg "Geekwise Academy Bootcamp 1 Class")
+
+R
+
 |   WEEK   |   MONDAY & TUESDAY   |   WEDNESDAY & THURSDAY   |
 | :----: |----| ----|
 | **1**    | **11/2 & 11/3**    | **11/4 & 11/5**    |
