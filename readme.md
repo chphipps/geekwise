@@ -16,14 +16,40 @@
 | **6**    | **9/14 & 9/15**    | **9/14 & 9/15**    |
 |      | Showcase Your Web Projects 7pm- 8pm      | PIZZA PARTY! and Code :-) |
 
-
+#### Example of HTML 5 Code
+This is a basic example of the code students will learn to write.
 ```html
-<h1>Header</h1>
-<p>Words</p>
+<!doctype html>
+<html>
+    <head>
+        <title>HTML Tutorial</title>
+    </head>
+    <body>
+        <section>
+          <h1>This is a heading tag or element.</h1>
+          <p>This is a paragraph tag or element.</p>
+        </section>
+    </body>
+</html> 
 ```
 
+#### Example of CSS 3 Code
+This is an example of the type of styles students will learn to write.
 ```css
-.blackText {color:#000000;}
+p {padding:10px; margin:10px;}
+.blackText {color:#000000; font-size:18px; font-weight:700;}
+
+or
+
+p {
+    padding:10px;
+    margin:10px;
+}
+.blackText {
+    color:#000000;
+    font-size:18px;
+    font-weight:700;
+}
 ```
 
 
