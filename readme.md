@@ -60,17 +60,17 @@ URLs and URLs in angle brackets will automatically get turned into links.
 http://www.geekwiseacademy.com or <http://www.geekwiseacademy.com>.
 
 
-### Cool Video 
+### Geekwise Acacemy Cool Video 
 Click the video below to watch on YouTube.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HIUNIIpqdwI
 " target="_blank"><img src="http://img.youtube.com/vi/HIUNIIpqdwI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="100%" height="" border="10" /></a>
 
-> Blockquotes.
-> This line is part of the same quote.
+> Blockquotes in Github look very clean and cool.
+> This line is part of the same Github text quote.
 
 Quote break.
 
-> This is a very long line that will still be quoted properly when it wraps. Oh, you can *put* **Markdown** into a blockquote. 
+> I'm sure I'll create a secondar Reposotory (Repo) soon. 
 
