@@ -35,6 +35,7 @@ This is a basic example of the code students will learn to write.
         </section>
     </body>
 </html> 
+
 <!-- How the text is indented in HTML is important. -->
 ```
 
