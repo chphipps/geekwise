@@ -6,7 +6,7 @@
 |   WEEK   |   MONDAY & TUESDAY   |   WEDNESDAY & THURSDAY   |
 | :----: |----| ----|
 | **1**    | **11/2 & 11/3**    | **11/4 & 11/5**    |
-|      | Introductions What is the Internet/the cloud? What is HTML & CSS how they work together What is a browser vs. search engine Open & Closed Caret and Tags < > < /> Codepen.io CODE PEN CODING      |    CODE PEN CODING Clean coding Nesting HTML & CSS syntax  build a micro page, blog style pixels as a unit of measurement &copy; and other HTML entities Why .io? input / output Resources like w3schools.org |
+|<br>   | Introductions<br> What is the Internet/the cloud?<br> What is HTML & CSS how they work together<br> What is a browser vs search engine<br> Open & Closed Carets or Tags < > < /><br> Codepen.io CODE PEN CODING<br>      |    CODE PEN CODING: Clean coding or Nesting<br> HTML & CSS syntax<br>  Build a micro page, blog style<br> Pixels as a unit of measurement<br> &copy; and other HTML entities Why .io? input / output<br> Resources like w3schools.org |
 | **2**    | **11/9 & 11/10**    | **11/11 & 11/12**    |
 |      | CODE PEN CODING Building a website including navigation color theory HEX, RGB & RGBA JPG vs PNG vs GIF vs SVG and their differences How to pronounce GIF -  Solved! Branding and design best practices http://www.w3.org      |    Cloud 9 plan A c9.io Learn local & remote directory structure and organization  Create Home Page Wire Frame What are IDEs? <!-- homework --> |
 | **3**    | **11/16 & 11/17**    | **11/18 & 11/19**    |
