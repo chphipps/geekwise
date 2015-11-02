@@ -10,11 +10,11 @@
 | **2**    | **11/9 & 11/10**    | **11/11 & 11/12**    |
 |      | CODE PEN CODING Building a website including navigation<br /> Color theory HEX, RGB & RGBA<br /> JPG vs PNG vs GIF vs SVG and their differences<br /> How to pronounce GIF -  Solved!<br /> Branding and design best practices   |    Cloud 9 - Plan A<br /> c9.io Learn local & remote directory structure and organization<br /> Create Home Page Wire Frame<br /> What are IDEs?<br /> <!-- homework --> |
 | **3**    | **11/16 & 11/17**    | **11/18 & 11/19**    |
-|      | Cloud 9 - Plan B<br /> Photo shoot - Plan A<br /> Finish coding our Home page<br /> Github.com basics.    | Photo shoot -Plan B<br /> <!-- homework --> Finish coding our Home page    |
+|      | Cloud 9 - Plan B<br /> Photo shoot - Plan A<br /> Finish coding our Home page<br /> Github.com basics.    | Photo shoot - Plan B<br /> Finish coding our Home page <!-- homework -->    |
 | **4**    | **11/30 & 12/1**    | **12/2 & 12/3**    |
 |      | Photoshop Editing: Optimizing Images for the web.<br /> Creative Commons: creativecommons.org<br /> Royalty Free<br />  Finish Home page and copy<br /> Understanding fonts<br /> What is Serif & Sans Serif?    | Create About & Contact Pages<br /> Write our CSS content<br /> /* homework - maybe final */    |
 | **5**    | **12/7 & 12/8**    | **12/9 & 12/10**    |
-|      | Create About & Contact Pages<br /> Write our CSS content<br /> Add custom fonts -Plan A<br /> Possibly learn how to add audio & video files      | Embed day, add YouTube video, Google map & contact form<br /> Finish final CSS markups<br /> Add custom fonts - Plan B<br /> Add Google Analytics<br /> /* homework */ |
+|      | Create About & Contact Pages<br /> Write our CSS content<br /> Add custom fonts - Plan A<br /> Possibly learn how to add audio & video files      | Embed day, add a YouTube video, Google map & contact form<br /> Finish final CSS<br /> Add custom fonts - Plan B<br /> Add Google Analytics<br /> /* homework */ |
 | **6**    | **12/14 & 12/15**    | **12/16 & 12/17**    |
 |      | Showcase Your Web Projects 7pm - 8pm      | PIZZA PARTY! and Code :-) |
 
