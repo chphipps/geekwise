@@ -14,7 +14,7 @@
 | **4**    | **11/30 & 12/1**    | **12/2 & 12/3**    |
 |      | Photoshop Editing: Optimizing images for web.<br /> Creative Commons: creativecommons.org<br /> Royalty Free<br />  Finish Home page and copy<br /> Understanding fonts<br /> What is Serif & Sans Serif?    | Create About & Contact Pages<br /> Write our CSS content<br /> /* homework - maybe final */    |
 | **5**    | **12/7 & 12/8**    | **12/9 & 12/10**    |
-|      | Create About & Contact Pages<br /> Write our CSS content<br /> Add custom fonts - Plan A<br /> Possibly learn how to add audio & video files      | Embed day, add a YouTube video, Google map & contact form<br /> Finish final CSS<br /> Add custom fonts - Plan B<br /> Add Google Analytics<br /> /* homework */ |
+|      | Create About & Contact Pages<br /> Write our CSS content<br /> Add custom fonts - Plan A<br /> Possibly learn how to add audio & video files      | Embed Day: Add a YouTube video, Google map & contact form<br /> Finish final CSS<br /> Add custom fonts - Plan B<br /> Add Google Analytics<br /> /* homework */ |
 | **6**    | **12/14 & 12/15**    | **12/16 & 12/17**    |
 |      | Showcase Your Web Projects 7pm - 8pm      | PIZZA PARTY! and Code :-) |
 
