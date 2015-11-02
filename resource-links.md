@@ -1,7 +1,11 @@
 ## RESOURCE LINKS
 Here is a list of amazingly helpful places to go online to learn more.
 
-⋅⋅⋅You can. [I'm an inline-style link](https://www.google.com) <br />
-⋅⋅⋅You can. [I'm an inline-style link](https://www.google.com) <br />
-⋅⋅⋅You can. [I'm an inline-style link](https://www.google.com) <br />
+<ul>
+    <li><a href="http://quiqlabs.com" target="_blank">Quiq Labs & Geekwise Academy</a></li>
+    <li><a href="http://quiqlabs.com" target="_blank">Quiq Labs & Geekwise Academy</a></li>
+    <li><a href="http://quiqlabs.com" target="_blank">Quiq Labs & Geekwise Academy</a></li>
+    <li><a href="http://quiqlabs.com" target="_blank">Quiq Labs & Geekwise Academy</a></li>
+</ul>
+
 This is <a href="http://example.com" target="_blank">a link</a> that opens in a new window.
