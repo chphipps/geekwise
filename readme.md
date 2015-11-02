@@ -9,7 +9,7 @@
 |      | Introductions<br /> What is the Internet/the cloud?<br /> What is HTML & CSS how they work together<br /> What is a browser vs search engine<br /> Open & Closed Carets or Tags < > < /><br /> Codepen.io CODE PEN CODING<br />      |    CODE PEN CODING: Clean coding or Nesting<br /> HTML & CSS syntax<br />  Build a micro page, blog style<br /> Pixels as a unit of measurement<br /> &copy; and other HTML entities Why .io? input / output<br /> Resources like w3schools.org |
 | **2**    | **11/9 & 11/10**    | **11/11 & 11/12**    |
 |      | CODE PEN CODING Building a website including navigation<br /> Color theory HEX, RGB & RGBA<br /> JPG vs PNG vs GIF vs SVG and their differences<br /> How to pronounce GIF -  Solved!<br /> Branding and design best practices   |    Cloud 9 - Plan A<br /> c9.io Learn local & remote directory structure and organization<br /> Create Home Page Wire Frame<br /> What are IDEs?<br /> <!-- homework --> |
-| **3**    | **11/16 & 11/17**    | **11/18 & 11/19** <span style="color:#FF0000;font-weight:700">NO CLASS NEXT WEEK</span>    |
+| **3**    | **11/16 & 11/17**    | **11/18 & 11/19** **NO CLASS NEXT WEEK**    |
 |      | Cloud 9 - Plan B<br /> Photo shoot - Plan A<br /> Finish coding our Home page<br /> Github.com basics.    | Photo shoot - Plan B<br /> Inline vs Block Level elements<br /> Finish coding our Home page<br /> <!-- homework -->    |
 | **4**    | **11/30 & 12/1**    | **12/2 & 12/3**    |
 |      | Photoshop Editing: Optimizing images for web.<br /> Creative Commons: creativecommons.org<br /> Royalty Free<br />  Finish Home page and copy<br /> Understanding fonts<br /> What is Serif & Sans Serif?    | Create About & Contact Pages<br /> Write our CSS content<br /> /* homework - maybe final */    |
