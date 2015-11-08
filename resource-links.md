@@ -20,7 +20,7 @@ Lots of these links are for beginners so please enjoy.
     <li><a href="https://www.youtube.com/playlist?list=PL41lfR-6DnOovY0t3nBg8Zb6aqm_H70mR" target="_blank">Bootstrap</a></li>
     <li><a href="https://www.youtube.com/playlist?list=PL41lfR-6DnOphKZdzukiMDU5B6i_JLY8w" target="_blank">PHP</a></li> 
     <li><a href="https://www.youtube.com/playlist?list=PL41lfR-6DnOqPsuqxjRchhBf2m78DOMbM" target="_blank">CPanel</a></li> 
-    <li><h1>Extra Goodies</h1></li>
+    <li><h3>Extra Goodies</h3></li>
     <li><a href="https://www.youtube.com/playlist?list=PL41lfR-6DnOqgJViAvstIoKMOx573yXnf" target="_blank">Custom Audio Player</a></li>
 </ul>
 
