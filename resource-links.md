@@ -1,5 +1,6 @@
-## RESOURCE LINKS
-Here is a list of amazingly helpful places to go online to learn more.
+# RESOURCE LINKS
+## Learn Code Concepts Online
+Here is a list of amazingly helpful places to go online to learn more code suff.
 
 <ul>
     <li><a href="http://w3schools.com" target="_blank">W3 Schools</a></li>
@@ -8,7 +9,6 @@ Here is a list of amazingly helpful places to go online to learn more.
     <li><a href="http://quiqlabs.com" target="_blank">Quiq Labs & Geekwise Academy</a></li>
 </ul>
 
-# Videos
 ## Great Tutorial Videos
 Lots of these links are for beginners so please enjoy.
 
@@ -22,6 +22,18 @@ Lots of these links are for beginners so please enjoy.
     <li><a href="https://www.youtube.com/playlist?list=PL41lfR-6DnOqPsuqxjRchhBf2m78DOMbM" target="_blank">CPanel</a></li> 
     <li><h1>Extra Goodies</h1></li>
     <li><a href="https://www.youtube.com/playlist?list=PL41lfR-6DnOqgJViAvstIoKMOx573yXnf" target="_blank">Custom Audio Player</a></li>
+</ul>
+
+## Design Resources
+Building websites is more than writting code. Understanding textual content, photography, graphic design and color theory to name a few. Below is a list of links that will help you with images.
+
+<ul>
+    <li><a href="http://pixlr.com/" target="_blank">Pixlr, Photoshop-like image editing</a></li>
+    <li><a href="http://www.picmonkey.com/" target="_blank">Pic Monkey, Photo Editing</a></li>
+    <li><a href="http://www.sumopaint.com/home/#app" target="_blank">Sumo Paint, Photoshop-like Editing</a></li>    
+    <li><h1>Tools for Dealing With Color</h1></li>
+    <li><a href="http://www.colorzilla.com/" target="_blank">Colourzilla</a></li>
+    <li><a href="http://www.colorhexa.com/" target="_blank">color Hexa</a></li>
 </ul>
 
 We hope this helps. <a href="http://quiqlabs.com" target="_blank">QuiqLabs.com</a> Heroes for Hire!
