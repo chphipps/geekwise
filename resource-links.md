@@ -31,7 +31,7 @@ Building websites is more than writting code. Understanding textual content, pho
     <li><a href="http://pixlr.com/" target="_blank">Pixlr, Photoshop-like image editing</a></li>
     <li><a href="http://www.picmonkey.com/" target="_blank">Pic Monkey, Photo Editing</a></li>
     <li><a href="http://www.sumopaint.com/home/#app" target="_blank">Sumo Paint, Photoshop-like Editing</a></li>    
-    <li><h1>Tools for Dealing With Color</h1></li>
+    <li><h1>Tools for Working With Color</h1></li>
     <li><a href="http://www.colorzilla.com/" target="_blank">Colourzilla</a></li>
     <li><a href="http://www.colorhexa.com/" target="_blank">color Hexa</a></li>
 </ul>
