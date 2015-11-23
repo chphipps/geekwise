@@ -29,10 +29,14 @@ This is a basic example of the code students will learn to write.
         <title>HTML Tutorial</title>
     </head>
     <body>
-        <section>
-          <h1>This is a heading tag or element.</h1>
-          <p>This is a paragraph tag or element.</p>
-        </section>
+        <main>
+            <article>
+                <section>
+                    <h1>This is a heading tag or element.</h1>
+                    <p>This is a paragraph tag or element.</p>
+                </section>
+            </article>
+        </main>
     </body>
 </html> 
 
@@ -75,5 +79,5 @@ alt="IMAGE ALT TEXT HERE" width="100%" height="" border="10" /></a>
 
 Quote break.
 
-> I'm sure I'll create a secondar Reposotory (Repo) soon. 
+> I'm sure I'll create a secondary Reposotory (Repo) soon. 
 
