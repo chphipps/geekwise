@@ -30,12 +30,12 @@ This is a basic example of the code students will learn to write.
     </head>
     <body>
         <main>
-            <article>
-                <section>
+            <section>
+                <article>
                     <h1>This is a heading tag or element.</h1>
                     <p>This is a paragraph tag or element.</p>
-                </section>
-            </article>
+                </article>
+            </section>
         </main>
     </body>
 </html> 
