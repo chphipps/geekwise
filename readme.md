@@ -1,6 +1,8 @@
 # Geekwise Academy BC1 Course Curriculum
 ### November 2015 - Bootcamp 1 Course Curriculum
 
+![Image of Geekwise Academy Graduating class. Damon Thomas of QuiqLabs.com as the instrctor](hhttps://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/12122746_10206738636517413_4155224022929602885_n.jpg?oh=722924b2712c2afea8acd5f9a78c8a38&oe=57E4E2CB)
+
 ![alt text](https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xpa1/v/t1.0-9/12122746_10206738636517413_4155224022929602885_n.jpg?oh=e563334d423a623cde4e7c6d7ce509fe&oe=56D007CB "Geekwise Academy Bootcamp 1 Class")
 
 |   WEEK   |   MONDAY & TUESDAY   |   WEDNESDAY & THURSDAY   |
