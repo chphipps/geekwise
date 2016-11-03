@@ -1,7 +1,7 @@
 # Geekwise Academy BC1 Course Curriculum
 ### Damon Thomas' - Bootcamp 1 Course Curriculum
 
-![Image of Geekwise Academy Graduating class. Damon Thomas of QuiqLabs.com as the instructor](https://photos-5.dropbox.com/t/2/AABSz7W6qkgSWARYlfJXP_mL72Ye-mwogaVmmrnQGeVxeA/12/61100675/jpeg/32x32/1/_/1/2/geekwise-class.jpg "Geekwise Academy Bootcamp 1 Class")
+![Image of Geekwise Academy Graduating class. Damon Thomas of QuiqLabs.com as the instructor](https://photos-5.dropbox.com/t/2/AABSz7W6qkgSWARYlfJXP_mL72Ye-mwogaVmmrnQGeVxeA/12/61100675/jpeg/32x32/1/_/1/2/geekwise-class.jpg/EOiQqC8YiKQCIAcoBw/s__a8n0fXfPRk7703MlNxSSLoEubUaFgckCEjkYjC3M?size_mode=5 "Geekwise Academy Bootcamp 1 Class")
 
 |   WEEK   |   MONDAY & TUESDAY   |   WEDNESDAY & THURSDAY   |
 | :----: |----| ----|
